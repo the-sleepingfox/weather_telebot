@@ -12,7 +12,7 @@ First you have to install the libraries first one is "requests" and the second o
 
 
 
-the api keys are stored in a python file named as api.py is the following format
+the api keys are stored in a python file named as api.py in the following format
 
 
   
