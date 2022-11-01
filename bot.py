@@ -48,7 +48,7 @@ def details_command(update, context):
     Our Team:-
 
     Rishabh Srivastava
-    dear @ Priyambada
+    Priyambada Modanval
     Ayush Tripathi @the_ayushtripathi
     """
     )
