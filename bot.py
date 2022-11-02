@@ -11,7 +11,7 @@ print("Bot started...")
 def start_command(update, context):
     update.message.reply_text(
         """
-        Hello! welcome to our Bot.
+        Hello! welcome to our Weatherey.
 
 Type /help to see the command details""")
 
