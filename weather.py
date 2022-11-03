@@ -1,7 +1,6 @@
 import api
 import requests
 
-
 #weather data retrival section
 
 key = api.weather_key
@@ -23,5 +22,4 @@ def weather_response(city_name):
 
 
 #telebot section
-
 

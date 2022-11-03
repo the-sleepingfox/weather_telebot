@@ -11,7 +11,7 @@ print("Bot started...")
 def start_command(update, context):
     update.message.reply_text(
         """
-        Hello! welcome to our Weatherey.
+        Hello! welcome to Weatherey.
 
 Type /help to see the command details""")
 
@@ -24,7 +24,8 @@ def help_command(update, context):
 /team to see the details of developers.
 
 You can write the city name to know the weather of that city.
-Note:- Please write the correct spelling of the city to avoid error.
+
+Note:- Spell City name correctly to avoid errors.
     """
     )
 
@@ -73,4 +74,3 @@ def main():
     updater.idle()
 
 main()
-
