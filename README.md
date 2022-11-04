@@ -1,7 +1,7 @@
 # weather_telebot
-**Hey**, their I made a program that will control the **telegram bot** by usig the python and tell you the current weathor of enterd city.
+**Hey**, their I made a program that will control the **telegram bot** by using the python and tell you the current weather of enterd city.
 
-You can fork and clon the repositery and run into your system but you have to use your own api key collected from telegram @botfather and a weather api_key
+You could fork and clone the repositery and run into your system but you have to use your own api key collected from telegram @botfather and a weather api_key.
 
 First you have to install the libraries first one is "requests" and the second one is "python-telegram-bot"
 
@@ -12,7 +12,7 @@ First you have to install the libraries first one is "requests" and the second o
 
 
 
-the api keys are stored in a python file named as api.py in the following format
+The api keys are stored in a python file named as api.py in the following format
 
 
   
